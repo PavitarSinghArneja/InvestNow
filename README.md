@@ -300,12 +300,17 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Pavitar Singh Arneja**
 - 🌐 GitHub: [@PavitarSinghArneja](https://github.com/PavitarSinghArneja)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- 📧 Email: [pavitar.arneja@gmail.com](mailto:pavitar.arneja@gmail.com)
+- 💼 LinkedIn: [Pavitar Singh Arneja]((https://www.linkedin.com/in/pavitar-arneja/))
+
+**Isha Chandravanshi**
+- ⁠🌐 GitHub: [@Shadowfalls123](https://github.com/shadowfalls123)
+- 📧 Email: [ishachandravanshi06@gmail.com](mailto:ishachandravanshi06@gmail.com)
+- ⁠💼 LinkedIn: [Isha Chandravanshi](https://www.linkedin.com/in/Isha-Chandravanshi/)
 
 ---
 
@@ -327,7 +332,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### 🌟 If you found this project helpful, please give it a star! ⭐
 
-**Made with ❤️ by [Pavitar Singh Arneja](https://github.com/PavitarSinghArneja)**
+**Made with ❤️ by [Pavitar Singh Arneja](https://github.com/PavitarSinghArneja) & [Isha Chandravanshi](https://github.com/shadowfalls123)**
 
 </div>
 Contribution by Isha Chandravanshi on August 4, 2025
