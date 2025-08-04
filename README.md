@@ -68,7 +68,7 @@ Make sure you have the following installed:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/PavitarSinghArneja/InvestNow.git
+git clone https://github.com/shadowfalls123/InvestNow.git
 cd InvestNow
 ```
 
