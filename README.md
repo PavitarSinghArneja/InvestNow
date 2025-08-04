@@ -305,7 +305,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 **Pavitar Singh Arneja**
 - 🌐 GitHub: [@PavitarSinghArneja](https://github.com/PavitarSinghArneja)
 - 📧 Email: [pavitar.arneja@gmail.com](mailto:pavitar.arneja@gmail.com)
-- 💼 LinkedIn: [Pavitar Singh Arneja]((https://www.linkedin.com/in/pavitar-arneja/))
+- 💼 LinkedIn: [Pavitar Singh Arneja](https://www.linkedin.com/in/pavitar-arneja/))
 
 **Isha Chandravanshi**
 - ⁠🌐 GitHub: [@Shadowfalls123](https://github.com/shadowfalls123)
