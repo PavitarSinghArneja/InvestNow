@@ -68,7 +68,7 @@ Make sure you have the following installed:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/shadowfalls123/InvestNow.git
+git clone https://github.com/PavitarSinghArneja/InvestNow.git
 cd InvestNow
 ```
 
@@ -292,7 +292,22 @@ We welcome contributions! Here's how you can help:
 - [ ] **International Markets** - Global diversification
 - [ ] **Tax Optimization** - Tax-efficient portfolio management
 
+---
 
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👨‍💻 Author
+
+**Pavitar Singh Arneja**
+- 🌐 GitHub: [@PavitarSinghArneja](https://github.com/PavitarSinghArneja)
+- 📧 Email: [pavitar.arneja@gmail.com](pavitar.arneja@gmail.com)
+- 💼 LinkedIn: [Pavitar Singh Arneja](https://www.linkedin.com/in/pavitar-arneja/)
+
+---
 
 ## 🙏 Acknowledgments
 
@@ -300,5 +315,19 @@ We welcome contributions! Here's how you can help:
 - **Modern Portfolio Theory** - Harry Markowitz's portfolio optimization
 - **Open Source Community** - Amazing libraries and frameworks used
 
-Made by Isha Chandravanshi & Pavitar Arneja
+---
 
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=PavitarSinghArneja/InvestNow&type=Date)](https://star-history.com/#PavitarSinghArneja/InvestNow&Date)
+
+---
+
+<div align="center">
+
+### 🌟 If you found this project helpful, please give it a star! ⭐
+
+**Made with ❤️ by [Pavitar Singh Arneja](https://github.com/PavitarSinghArneja) & [Isha Chandravanshi](https://github.com/shadowfalls123)**
+
+</div>
+Contribution by Isha Chandravanshi on August 4, 2025
