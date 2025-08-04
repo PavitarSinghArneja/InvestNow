@@ -292,22 +292,7 @@ We welcome contributions! Here's how you can help:
 - [ ] **International Markets** - Global diversification
 - [ ] **Tax Optimization** - Tax-efficient portfolio management
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
-
-**Pavitar Singh Arneja**
-- 🌐 GitHub: [@PavitarSinghArneja](https://github.com/PavitarSinghArneja)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-
----
 
 ## 🙏 Acknowledgments
 
@@ -315,17 +300,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Modern Portfolio Theory** - Harry Markowitz's portfolio optimization
 - **Open Source Community** - Amazing libraries and frameworks used
 
----
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=PavitarSinghArneja/InvestNow&type=Date)](https://star-history.com/#PavitarSinghArneja/InvestNow&Date)
-
----
-
-<div align="center">
-
-### 🌟 If you found this project helpful, please give it a star! ⭐
+Made by Isha Chandravanshi
 
 **Made with ❤️ by [Pavitar Singh Arneja](https://github.com/PavitarSinghArneja)**
 
