@@ -300,9 +300,5 @@ We welcome contributions! Here's how you can help:
 - **Modern Portfolio Theory** - Harry Markowitz's portfolio optimization
 - **Open Source Community** - Amazing libraries and frameworks used
 
-Made by Isha Chandravanshi
+Made by Isha Chandravanshi & Pavitar Arneja
 
-**Made with ❤️ by [Pavitar Singh Arneja](https://github.com/PavitarSinghArneja)**
-
-</div>
-Contribution by Isha Chandravanshi on August 4, 2025
